@@ -44,4 +44,7 @@ public void setFloorNumber(int floorNumber) {
     this.floorNumber = floorNumber;
 }
 
+public void setCurrentFloor() {
+}
+
 
